@@ -1,0 +1,61 @@
+{
+  "@context": {
+    "stateOfIssue": {
+      "@id": "https://example.org/terms#stateOfIssue",
+      "@type": "xsd:string"
+    },
+    "licenceNumber": {
+      "@id": "https://example.org/terms#licenceNumber",
+      "@type": "xsd:string"
+    },
+    "holderSurname": {
+      "@id": "https://example.org/terms#holderSurname",
+      "@type": "xsd:string"
+    },
+    "holderFirstName": {
+      "@id": "https://example.org/terms#holderFirstName",
+      "@type": "xsd:string"
+    },
+    "dateOfBirth": {
+      "@id": "https://example.org/terms#dateOfBirth",
+      "@type": "xsd:date"
+    },
+    "placeOfBirth": {
+      "@id": "https://example.org/terms#placeOfBirth",
+      "@type": "xsd:string"
+    },
+    "nationality": {
+      "@id": "https://example.org/terms#nationality",
+      "@type": "xsd:string"
+    },
+    "addressOfHolder": {
+      "@id": "https://example.org/terms#addressOfHolder",
+      "@type": "xsd:string"
+    },
+    "issuingAuthority": {
+      "@id": "https://example.org/terms#issuingAuthority",
+      "@type": "xsd:string"
+    },
+    "dateOfIssue": {
+      "@id": "https://example.org/terms#dateOfIssue",
+      "@type": "xsd:date"
+    },
+    "titleOfLicence": {
+      "@id": "https://example.org/terms#titleOfLicence",
+      "@type": "xsd:string"
+    },
+    "validity": {
+      "@id": "https://example.org/terms#validity",
+      "@type": "xsd:string"
+    },
+    "radiotelephonyPrivileges": {
+      "@id": "https://example.org/terms#radiotelephonyPrivileges",
+      "@type": "xsd:string"
+    },
+    "languageProficiency": {
+      "@id": "https://example.org/terms#languageProficiency",
+      "@type": "xsd:string"
+    },
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+}
