@@ -1,27 +1,27 @@
 {
   "@context": {
     "stateOfIssue": {
-      "@id": "https://example.org/terms#stateOfIssue",
+      "@id": "https://aramliw.github.io/IAA/terms#stateOfIssue",
       "@type": "xsd:string"
     },
     "licenceNumber": {
-      "@id": "https://example.org/terms#licenceNumber",
+      "@id": "https://aramliw.github.io/IAA/terms#licenceNumber",
       "@type": "xsd:string"
     },
     "holderSurname": {
-      "@id": "https://example.org/terms#holderSurname",
+      "@id": "https://aramliw.github.io/IAA/terms#holderSurname",
       "@type": "xsd:string"
     },
     "holderFirstName": {
-      "@id": "https://example.org/terms#holderFirstName",
+      "@id": "https://aramliw.github.io/IAA/terms#holderFirstName",
       "@type": "xsd:string"
     },
     "dateOfBirth": {
-      "@id": "https://example.org/terms#dateOfBirth",
+      "@id": "https://aramliw.github.io/IAA/terms#dateOfBirth",
       "@type": "xsd:date"
     },
     "placeOfBirth": {
-      "@id": "https://example.org/terms#placeOfBirth",
+      "@id": "https://aramliw.github.io/IAA/terms#placeOfBirth",
       "@type": "xsd:string"
     },
     "nationality": {
@@ -29,31 +29,31 @@
       "@type": "xsd:string"
     },
     "addressOfHolder": {
-      "@id": "https://example.org/terms#addressOfHolder",
+      "@id": "https://aramliw.github.io/IAA/terms#addressOfHolder",
       "@type": "xsd:string"
     },
     "issuingAuthority": {
-      "@id": "https://example.org/terms#issuingAuthority",
+      "@id": "https://aramliw.github.io/IAA/terms#issuingAuthority",
       "@type": "xsd:string"
     },
     "dateOfIssue": {
-      "@id": "https://example.org/terms#dateOfIssue",
+      "@id": "https://aramliw.github.io/IAA/terms#dateOfIssue",
       "@type": "xsd:date"
     },
     "titleOfLicence": {
-      "@id": "https://example.org/terms#titleOfLicence",
+      "@id": "https://aramliw.github.io/IAA/terms#titleOfLicence",
       "@type": "xsd:string"
     },
     "validity": {
-      "@id": "https://example.org/terms#validity",
+      "@id": "https://aramliw.github.io/IAA/terms#validity",
       "@type": "xsd:string"
     },
     "radiotelephonyPrivileges": {
-      "@id": "https://example.org/terms#radiotelephonyPrivileges",
+      "@id": "https://aramliw.github.io/IAA/terms#radiotelephonyPrivileges",
       "@type": "xsd:string"
     },
     "languageProficiency": {
-      "@id": "https://example.org/terms#languageProficiency",
+      "@id": "https://aramliw.github.io/IAA/terms#languageProficiency",
       "@type": "xsd:string"
     },
     "xsd": "http://www.w3.org/2001/XMLSchema#"
