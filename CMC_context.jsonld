@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "issuingAuthority": {
+      "@id": "https://aramliw.github.io/IAA/terms#issuingAuthority",
+      "@type": "xsd:string"
+    },
+    "documentName": {
+      "@id": "https://aramliw.github.io/IAA/terms#documentName",
+      "@type": "xsd:string"
+    },
+    "holderSurname": {
+      "@id": "https://aramliw.github.io/IAA/terms#holderSurname",
+      "@type": "xsd:string"
+    },
+    "holderFirstName": {
+      "@id": "https://aramliw.github.io/IAA/terms#holderFirstName",
+      "@type": "xsd:string"
+    },
+    "dateOfBirth": {
+      "@id": "https://aramliw.github.io/IAA/terms#dateOfBirth",
+      "@type": "xsd:date"
+    },
+    "nationality": {
+      "@id": "https://aramliw.github.io/IAA/terms#nationality",
+      "@type": "xsd:string"
+    },
+    "sex": {
+      "@id": "https://aramliw.github.io/IAA/terms#sex",
+      "@type": "xsd:string"
+    },
+    "employer": {
+      "@id": "https://aramliw.github.io/IAA/terms#employer",
+      "@type": "xsd:string"
+    },
+    "occupation": {
+      "@id": "https://aramliw.github.io/IAA/terms#occupation",
+      "@type": "xsd:string"
+    },
+    "cmcNumber": {
+      "@id": "https://aramliw.github.io/IAA/terms#cmcNumber",
+      "@type": "xsd:string"
+    },
+    "dateOfExpiry": {
+      "@id": "https://aramliw.github.io/IAA/terms#dateOfExpiry",
+      "@type": "xsd:date"
+    },
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+}
